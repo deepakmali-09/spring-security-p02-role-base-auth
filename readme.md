@@ -92,5 +92,5 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 
 ## Author
 
-- **Your Name**  
+- **Dipak Mali**  
   [GitHub](https://github.com/deepakmali-09) | [LinkedIn](https://www.linkedin.com/in/dipak-mali3/)
